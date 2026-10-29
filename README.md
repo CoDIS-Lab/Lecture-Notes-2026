@@ -15,7 +15,7 @@ notebook runs inside a copy of this repository. Otherwise (for example in Google
 Colab) it downloads the file once from the raw GitHub URL:
 
 ```
-https://raw.githubusercontent.com/<FINAL_OWNER>/<FINAL_REPO>/main/2026-27/datasets/<file>
+https://raw.githubusercontent.com/CoDIS-Lab/Lecture-Notes-2026/main/2026-27/datasets/<file>
 ```
 
 ## Notebooks you were given before this repository existed
@@ -29,7 +29,7 @@ COURSE_REPO = "OWNER/REPO"
 with
 
 ```python
-COURSE_REPO = "<FINAL_OWNER>/<FINAL_REPO>"
+COURSE_REPO = "CoDIS-Lab/Lecture-Notes-2026"
 ```
 
 Leave everything else unchanged, then run the cell again.
